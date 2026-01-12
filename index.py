@@ -30,7 +30,6 @@ def main():
     while True:
         tampilkan_menu()
         pilihan = input("\nPilih menu: ")
-
         if pilihan == "1":
             menu_caesar()
         elif pilihan == "2":
